@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473114283636",
+    "project_id": "iot-achocalla",
+    "storage_bucket": "iot-achocalla.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473114283636:android:d88f08133e7d7453178b21",
+        "android_client_info": {
+          "package_name": "com.achocalla.iot_achocalla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1dMaE1TRr_6WxXiliALUyaRgMiIKQgGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
